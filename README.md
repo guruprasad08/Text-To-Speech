@@ -1,24 +1,22 @@
-# 📁 **Speech-To-Text**
+# 📁 **Text-To-Speech**
 
-A simple and efficient **Speech-To-Text** application that converts spoken language into written text in real-time.
+A simple and efficient **Text-to-Speech** application that converts written text into natural-sounding speech in real-time. 
 
 ---
 
 ## 🚀 **Features**
 
-- 🎙️ **Real-Time Speech Recognition**  
-- 📄 **Accurate Text Conversion**   
+- 🔤 **Convert Text to Speech in Real-Time**  
 - 💻 **User-Friendly Interface**  
-- 📊 **Easy to Integrate with Other Applications**  
 
 ---
 
 ## 🛠️ **Technologies Used**
 
-- **JavaScript**: Used for handling real-time speech recognition and text conversion.
+- **JavaScript**: Used for handling text-to-speech conversion.
 - **HTML5**: Provides structure to the web page.
 - **CSS3**: Styles the application interface.
-- **Web Speech API**: Powers the speech-to-text conversion.
+- **Web Speech API (SpeechSynthesis)**: Powers the text-to-speech functionality.
 
 ---
 
@@ -26,12 +24,12 @@ A simple and efficient **Speech-To-Text** application that converts spoken langu
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/guruprasad26gp/Speech-To-Text.git
+    git clone https://github.com/your-username/your-repository.git
     ```
 
 2. **Navigate to the project folder**:
     ```bash
-    cd Speech-To-Text
+    cd Text-To-Speech
     ```
 
 3. **Open the project in your browser**:  
@@ -43,12 +41,10 @@ A simple and efficient **Speech-To-Text** application that converts spoken langu
 
 1. **Run the project**:
     - Open `index.html` in your browser.
-    
+
 2. **How to use the application**:
-    - Click on the **Start Recording** button.
-    - Speak into your microphone.
-    - Watch your speech convert into text in real-time.
-    - Copy or save the generated text as needed.
+    - Enter the text you want to convert to speech in the provided text box.
+    - Click the **Play** button to start listening to the text being read aloud.
 
 ---
 
